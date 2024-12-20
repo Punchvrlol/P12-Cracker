@@ -6,6 +6,8 @@ how to use the script
 
 1. download script
 
-2. add your discord webhook and file(s) like
+2. upload to what every you use
 
-3. run script and wait
+3. add your discord webhook, file, github repo, and github token
+
+4. run script and wait
