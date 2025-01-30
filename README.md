@@ -12,7 +12,7 @@ how to use the script
 
 4. run script and wait
 
-Version 1 Is A Really simple Script
-Version 1.1 is a faster script
-Version 1.2 we swicthed to c#
-Version 1.
+V1 Is A Really simple Script
+V1.1 is a faster script
+V1.2 switched to c#, REMOVE <>!!!
+V1.3 soon
